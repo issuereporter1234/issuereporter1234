@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hi, I'm Marko 👋
 
-<!--
-**issuereporter1234/issuereporter1234** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Self-taught web developer based in Vienna, working through [The Odin Project](https://www.theodinproject.com/) and building projects along the way.
 
-Here are some ideas to get you started:
+## What I'm up to
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🟡 Currently learning Node.js
+- 📚 Continuing with The Odin Project after that
+- 🔨 Building things to solidify what I learn
+
+## Tech
+
+- HTML, CSS, JavaScript
+- Node.js (in progress)
+- Git & GitHub
+- Linux
+
+## Projects
+
+Check out my pinned repos below ⬇️
